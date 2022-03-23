@@ -10,11 +10,6 @@ folder in with the file name, Climate_Change.ott. Open this file in LibreOffice
 Writer and create a new heading style with the name style21 defining the following
 features. (The new style has to be created under Heading 2 in the Heading styles)
 
-Font family - Bitstream Charter
-Font Size - 105 % or 16pt
-Font color - Purple
-Add Shadow effect.
-
 Add the style, style21 to all the subheadings in the article. (Subheadings are marked
 in green colour)
 Save the modified file.
